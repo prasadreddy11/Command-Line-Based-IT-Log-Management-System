@@ -1,1 +1,0 @@
-# Command-Line-Based-IT-Log-Management-System
